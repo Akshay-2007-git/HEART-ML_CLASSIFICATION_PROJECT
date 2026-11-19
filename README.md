@@ -1,6 +1,13 @@
 # ❤️ HEART-ML_CLASSIFICATION_PROJECT
 
 A Machine Learning project that predicts the likelihood of heart disease using Logistic Regression, with an interactive web application built using Streamlit.
+## 🌐 Live Deployment
+
+The Heart Disease Prediction application has been successfully deployed using **Streamlit Community Cloud**.
+
+🚀 **Live Application:** [Heart Disease Prediction – Try it here](https://heartstrokepredictionbyakshay.streamlit.app/)
+
+Users can access the application online and interact with the trained Logistic Regression model to generate predictions.
 
 ## 🚀 Project Overview
 
